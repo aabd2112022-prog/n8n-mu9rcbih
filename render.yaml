@@ -63,3 +63,5 @@ databases:
     # setting the `diskSizeGB` property.
     #
     # diskSizeGB: 5
+      - key: PORT
+        value: "5678"
